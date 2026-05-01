@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.0.0",
+  "latest_version": "v4.0.0",
   "mandatory": true,
-  "download_url": "https://github.com/fuschwolfsystem-dot/Fuschwolfsystem-Releases/releases/download/v3.0.0/FLM_App.exe",
-  "release_notes": "Official launch of Fuschwolf License Manager V3.0."
+  "download_url": "https://github.com/fuschwolfsystem-dot/Fuschwolfsystem-Releases/releases/download/v4.0.0/FLM_App.exe",
+  "release_notes": "Upgraded to Cloud Catalog Architecture V4.0"
 }
