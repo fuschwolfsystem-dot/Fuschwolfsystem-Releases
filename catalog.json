@@ -2,5 +2,4 @@
   { "name": "Fuschwolf AI Core Pro", "prefix": "A410-", "version": "V4.1.7" },
   { "name": "Fuschwolf System App", "prefix": "Q2400-", "version": "V2.5.0" },
   { "name": "Fuschwolf SCADA Gateway", "prefix": "S200-", "version": "V1.2.0" },
-  { "name": "Foxhound GCS", "prefix": "G3011-", "version": "V1.0.0" }
 ]
