@@ -1,6 +1,7 @@
 {
   "latest_version": "v5.0.0",
   "mandatory": true,
-  "download_url": "https://github.com/fuschwolfsystem-dot/Fuschwolfsystem-Releases/releases/download/v5.0.0/Fuschwolfsystem.exe",
+  "download_url": "https://github.com/fuschwolfsystem-dot/Fuschwolfsystem-Releases/releases/download/v5.0.0/FuschwolfSystem.exe
+",
   "release_notes": "Upgraded to Cloud Catalog Architecture V5.0.0"
 }
